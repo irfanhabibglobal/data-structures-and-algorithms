@@ -1,2 +1,2 @@
-# data-structures-and-algorithms
+# Data-Structures-and-Algorithms
 Learning data structures &amp; algorithms using C++
